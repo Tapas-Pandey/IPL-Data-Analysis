@@ -154,11 +154,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 * IPL fans and data science enthusiasts 🎉
 
 ---
-
-Let me know if you'd like:
-
-* A ready-made `requirements.txt`
-* Screenshots added for your actual app
-* Instructions to deploy it to **Streamlit Cloud** or **Docker**
-
-I'm happy to assist!
