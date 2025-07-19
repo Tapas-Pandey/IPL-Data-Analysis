@@ -1,5 +1,3 @@
-Here's a professional and clear **`README.md`** for your IPL Dashboard project, assuming the dataset includes matches up to **IPL 2024**:
-
 ---
 
 # 🏏 IPL Data Analysis Dashboard (2008–2024)
