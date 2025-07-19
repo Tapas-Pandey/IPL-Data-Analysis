@@ -67,18 +67,6 @@ An interactive, visually rich **IPL Data Analysis Dashboard** built with **Strea
 
 ---
 
-## 📸 Screenshots
-
-| Dashboard Sections       | Preview                                 |
-| ------------------------ | --------------------------------------- |
-| KPI Cards + Team Filters | ![KPI Section](docs/kpi-section.png)    |
-| Player Search            | ![Player Stats](docs/player-search.png) |
-| Head-to-Head             | ![H2H](docs/h2h-comparison.png)         |
-
-> *(You can capture your own screenshots and place them in a `/docs/` folder to link them above.)*
-
----
-
 ## 🏁 Getting Started
 
 ### 1️⃣ Clone the repo
@@ -137,18 +125,6 @@ streamlit run main.py
 
 Feel free to fork, improve, and open pull requests. For major changes, please open an issue first to discuss what you’d like to change.
 
----
 
-## 📜 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙌 Acknowledgements
-
-* [Kaggle IPL Dataset](https://www.kaggle.com/datasets)
-* Streamlit Community & Open Source Contributors
-* IPL fans and data science enthusiasts 🎉
 
 ---
